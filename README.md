@@ -1,2 +1,4 @@
 # Algoritmos 1º Periodo
-Exercícios da matéria de algotitmos em python do primeiro periodo do curso de Ciência de Dados e Inteligência Artificial na PUC Minas.
+This repository was created to make public and preserve the exercises from the **algorithms** course provided by PUC Minas, along with my solutions. The course is taught in **python**.
+
+Esse repositório foi criado para tornar público e recordado os exercícios da matéria de **algoritmos** disponibilizados pela PUC Minas e minhas resoluções. A matéria é dada em **python**.
