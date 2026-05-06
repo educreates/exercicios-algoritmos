@@ -1,3 +1,5 @@
+<div align="center">
+
 # Introdução 
 
 *Modularização, Parâmetros Opcionais e Criação de Bibliotecas*
@@ -12,3 +14,5 @@ A proposta da lista é mostrar, na prática, como a modularização:
 - torna a solução mais legível e reutilizável;
 - aproxima o desenvolvimento de exercícios da estrutura de pequenos projetos reais em Python.
 - Em cada bloco, você implementará um conjunto de funções e, ao final, utilizará essas mesmas funções em um exercício integrador mais completo.
+
+</div>
