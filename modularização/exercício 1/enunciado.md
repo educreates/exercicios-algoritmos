@@ -1,5 +1,4 @@
-# Exercício Integrador 1
-## Fechamento de pedido de uma cafeteria
+# Exercício Integrador 1 - Fechamento de pedido de uma cafeteria
  
 ---
  
