@@ -28,8 +28,3 @@ The purpose of this list is to demonstrate, in practice, how modularization:
 - makes solutions more readable and reusable;
 - brings exercise development closer to the structure of small real-world Python projects.
 - In each block, a set of functions was implemented and, at the end, used in a more complete integrative exercise.
-
-### Important: 
-Most of the exercises in this repository are written in Portuguese due to the standards of PUC Minas. However, I will make sure to provide an English version of the assignment statements so that it is possible to follow at least part of my projects, even though the variable names in the code are in Portuguese.
-
----
