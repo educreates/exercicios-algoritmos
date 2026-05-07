@@ -8,6 +8,7 @@ Neste exercício, você deverá construir um pequeno projeto com dois arquivos P
  
 - `funcoes_cafeteria.py` — contendo as funções;
 - `principal_cafeteria.py` — contendo a lógica principal do programa.
+
 ---
  
 ## Funções — `funcoes_cafeteria.py`
@@ -78,6 +79,7 @@ O programa deve:
 6. Gerar o resumo de cada item;
 7. Calcular subtotal, taxa e total do pedido;
 8. Exibir um resumo final do pedido.
+
 ---
  
 ## Entradas e saídas esperadas
